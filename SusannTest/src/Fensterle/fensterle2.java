@@ -7,7 +7,7 @@ public class fensterle2 extends Frame
 {
   public fensterle2() 
   {
-    setTitle("Java for Blondies, Thermodramatik");  // Fenstertitel setzen
+    setTitle("Java for Blondies, Thermodramatik");  // Fenstertitel setzenxyz
     setSize(800,600);                            	// Fenstergröße einstellen  
     addWindowListener(new MasterWindowListener()); 	// EventListener für das Fenster hinzufügen
                                                  	// (notwendig, damit das Fenster geschlossen werden kann)
